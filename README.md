@@ -1,4 +1,4 @@
-# BoxBot
+# ⭐BoxBot⭐
 Projeto realizado no âmbito da cadeira de Laboratórios de Informática I. 
 
 Este jogo é inspirado no jogo clássico 'Block dude', tendo este sido recriado em haskell com novas funcionalidades.
