@@ -1,0 +1,15 @@
+                      
+                      
+XXXXXXXXXXXXXXXXXXXXXX
+X                    X
+X      CC       P    X
+X     XXXX XXXXXX    X
+XCCC                 X
+XCCCC  CC   CCC      X
+XXXXXX XXX XXXXC     X
+X              XX    X
+X >CC   CC  C        X
+XXXXXX XXX XXX       X
+X             C  CCC X
+X CCC  CCC C  CC CCCCX
+XXXXXXXXXXXXXXXXXXXXXX
