@@ -5,6 +5,8 @@ Este jogo é inspirado no jogo clássico 'Block dude', tendo este sido recriado 
 
 Em termos visuais foi mantida a identidade do 'block dude' original, preservando o seu tema 'black and white'. 
 
+O projeto recebeu uma nota de 19/20, sendo que a maioria dos objetivos estipulados pelos professores foram cumpridos.
+
 # Compatibilidade
 O jogo foi desenvolvido para Linux. 
 
