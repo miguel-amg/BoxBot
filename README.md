@@ -24,7 +24,7 @@ BoxBot é um jogo que possui funcionalidades novas que não estão disponíveis 
 - 5 níveis da campanha editáveis (Permitindo ao utilizador criar a sua própria campanha)
 - Editor de níveis completo: 
     - Hotkeys para facilitar a criação dos mapas
-    - Previ 
+    - Sistema de armazenamento de niveis com pre-visualização.
 - Possibilidade de partilhar níveis através de ficheiros de texto
 
 ## Realizado por:
