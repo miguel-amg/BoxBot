@@ -1,11 +1,11 @@
 # ⭐BoxBot⭐
 Projeto realizado no âmbito da cadeira de Laboratórios de Informática I. 
 
-Este jogo é inspirado no jogo clássico 'Block dude', tendo este sido recriado em haskell com novas funcionalidades.
+Este jogo é inspirado no jogo clássico **'Block dude'**, tendo este sido recriado em haskell com novas funcionalidades.
 
-Em termos visuais foi mantida a identidade do 'block dude' original, preservando o seu tema 'black and white'. 
+Em termos visuais foi mantida a identidade do 'Block dude' original, preservando o seu tema 'black and white'. 
 
-O projeto recebeu uma nota de 19/20, sendo que a maioria dos objetivos estipulados pelos professores foram cumpridos.
+O projeto recebeu uma nota de **19/20**, sendo que a maioria dos objetivos estipulados pelos professores foram cumpridos.
 
 # Compatibilidade
 O jogo foi desenvolvido para Linux. 
