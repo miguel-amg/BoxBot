@@ -36,7 +36,7 @@ BoxBot é um jogo que possui funcionalidades novas que não estão disponíveis 
 # Compatibilidade e instalação
 O jogo foi desenvolvido para Linux.
 
-Para executar o jogo neste deverá ser executada a tarefa 5.
+Para executar o jogo neste deverá ser executada a tarefa 5 com graphics gloss instalado.
 
 Uma versão para windows poderá ser desenvolvida no futuro.
 
