@@ -33,7 +33,7 @@ BoxBot é um jogo que possui funcionalidades novas que não estão disponíveis 
     - Sistema de armazenamento de niveis com pre-visualização.
 - Possibilidade de partilhar níveis através de ficheiros de texto
 
-# Compatibilidade e instalaçãop
+# Compatibilidade e instalação
 O jogo foi desenvolvido para Linux.
 
 Para executar o jogo neste deverá ser executada a tarefa 5.
