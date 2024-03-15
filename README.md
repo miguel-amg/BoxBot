@@ -11,8 +11,11 @@ O projeto recebeu uma nota de **19/20**, sendo que a maioria dos objetivos estip
 
 # Lore
 O BoxBot é um pequeno robô criado para arrumar caixas que se encontram em armazéns. 
+
 Infelizmente com o passar dos anos a fábrica na qual o boxbot trabalhava ficou abandonada, tendo uma grande desorganização.
+
 Ao fim de várias horas o pequeno robo tem de recarregar a sua bateria numa das estações de carregamento espalhadas pela fábrica.
+
 A maioria das estações encontram-se em locais de difícil acesso, conseguirá o BoxBot sobreviver?
 
 # Gameplay
@@ -32,6 +35,7 @@ BoxBot é um jogo que possui funcionalidades novas que não estão disponíveis 
 
 # Compatibilidade e instalaçãop
 O jogo foi desenvolvido para Linux.
+
 Para executar o jogo neste deverá ser executada a tarefa 5.
 
 Uma versão para windows poderá ser desenvolvida no futuro.
