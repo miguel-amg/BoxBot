@@ -41,6 +41,8 @@ Para executar o jogo neste deverá ser executada a tarefa 5 com graphics gloss i
 Instalação das bibliotecas:
 ```
 sudo apt-get install haskell-platform
+cabal update
+cabal install gloss
 ```
 
 Uma versão para windows poderá ser desenvolvida no futuro.
