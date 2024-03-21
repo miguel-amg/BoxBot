@@ -19,25 +19,25 @@ Ao fim de várias horas o pequeno robo tem de recarregar a sua bateria numa das 
 A maioria das estações encontram-se em locais de difícil acesso, conseguirá o BoxBot sobreviver?
 
 ## Screenshots:
-**Menu inicial**
+### Menu inicial
 ![Imagem do menu Inicial](/Screenshots/Menu_Inicial.png)
 
-**Menu de Níveis**
+### Menu de Níveis
 ![Screenshot do menu de níveis](/Screenshots/Niveis.png)
 
-**Nivel Fácil**
+### Nivel Fácil
 ![Screenshot do nivel fácil](/Screenshots/Easy.png)
 
-**Nivel Difícil**
+### Nivel Difícil
 ![Screenshot do nivel difícil](/Screenshots/Hard.png)
 
-**Editor de Mapas**
+### Editor de Mapas
 ![Screenshot do menu de níveis](/Screenshots/Editor_Mapas.png)
 
-**Menu de Pausa**
+### Menu de Pausa
 ![Screenshot do menu de pausa](/Screenshots/Pausa.png)
 
-**Menu de Informações**
+### Menu de Informações
 ![Screenshot do menu de informações](/Screenshots/Info.png)
 
 # Gameplay
