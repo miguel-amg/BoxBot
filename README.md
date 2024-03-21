@@ -5,7 +5,7 @@ Este jogo é inspirado no jogo clássico **'Block dude'**, tendo este sido recri
 
 Em termos visuais foi mantida a identidade do 'Block dude' original, preservando o seu tema 'black and white'. 
 
-Toda a arte foi desenvolvida pelo grupo sendo que nenhum asset foi retirado de terceiros.
+Toda a arte foi desenvolvida pelo grupo sendo que nenhum asset foi obtido atráves de terceiros.
 
 O projeto recebeu uma nota de **19/20**, sendo que a maioria dos objetivos estipulados pelos professores foram cumpridos.
 
@@ -17,6 +17,28 @@ Infelizmente com o passar dos anos a fábrica na qual o boxbot trabalhava ficou 
 Ao fim de várias horas o pequeno robo tem de recarregar a sua bateria numa das estações de carregamento espalhadas pela fábrica.
 
 A maioria das estações encontram-se em locais de difícil acesso, conseguirá o BoxBot sobreviver?
+
+## Screenshots:
+**Menu inicial**
+![Imagem do menu Inicial](/Screenshots/Menu_Inicial.png)
+
+**Menu de Níveis**
+![Screenshot do menu de níveis](/Screenshots/Niveis.png)
+
+**Nivel Fácil**
+![Screenshot do nivel fácil](/Screenshots/Easy.png)
+
+**Nivel Difícil**
+![Screenshot do nivel difícil](/Screenshots/Hard.png)
+
+**Editor de Mapas**
+![Screenshot do menu de níveis](/Screenshots/Editor_Mapas.png)
+
+**Menu de Pausa**
+![Screenshot do menu de pausa](/Screenshots/Pausa.png)
+
+**Menu de Informações**
+![Screenshot do menu de informações](/Screenshots/Info.png)
 
 # Gameplay
 O gameplay do jogo é idêntico ao do block dude original:
