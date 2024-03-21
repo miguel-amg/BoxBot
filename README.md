@@ -71,4 +71,4 @@ Uma versão para windows poderá ser desenvolvida no futuro.
 
 ## Realizado por:
 -  Miguel Ângelo Martins Guimarães
--  Filipe Prudêncio Pacheco dos Santos
+-  Filipe Prudêncio Pacheco dos Santos [GitLab](https://gitlab.com/a100607)
