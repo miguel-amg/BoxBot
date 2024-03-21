@@ -60,6 +60,13 @@ O jogo foi desenvolvido para Linux.
 
 Para executar o jogo neste deverá ser executada a tarefa 5 com graphics gloss instalado.
 
+Instalação das bibliotecas:
+```
+sudo apt-get install haskell-platform
+cabal update
+cabal install gloss
+```
+
 Uma versão para windows poderá ser desenvolvida no futuro.
 
 ## Realizado por:
