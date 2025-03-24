@@ -10,11 +10,11 @@ Toda a arte foi desenvolvida pelo grupo sendo que nenhum asset foi obtido atráv
 O projeto recebeu uma nota de **19/20**, sendo que a maioria dos objetivos estipulados pelos professores foram cumpridos.
 
 # Lore
-O BoxBot é um pequeno robô criado para arrumar caixas que se encontram em armazéns. 
+O BoxBot é um pequeno robô criado para organizar caixas em armazéns. 
 
-Infelizmente com o passar dos anos a fábrica na qual o boxbot trabalhava ficou abandonada, ficando muito desorganizada.
+Infelizmente com o passar dos anos a fábrica na qual o boxbot trabalhava ficou abandonada, o que resultou numa grande desorganização.
 
-Ao fim de várias horas o pequeno robo tem de recarregar a sua bateria numa das estações de carregamento que se encontram na fábrica.
+Ao fim de algumas horas de trabalho o pequeno robo tem de recarregar a sua bateria numa das estações de carregamento que se encontram na fábrica.
 
 A maioria das estações encontram-se em locais de difícil acesso, conseguirá o BoxBot sobreviver?
 
