@@ -1,13 +1,15 @@
 # BoxBot 🤖📦
 Projeto realizado no âmbito da cadeira de Laboratórios de Informática I. 
 
-Este jogo é inspirado no jogo clássico **'Block dude'**, tendo este sido recriado em haskell com novas funcionalidades.
+Este jogo é inspirado no jogo clássico **'Block dude'**, tendo este sido recriado em haskell com novas funcionalidades, visuais e até uma nova história.
 
-Em termos visuais foi mantida a identidade do 'Block dude' original, preservando o seu tema 'black and white'. 
+Em termos visuais a idêntidade retro do jogo original foi preservada, no entanto foram introduzidos vários upgrades visuais para fornecer ao jogo uma expêriencia mais moderna e acolhedora. 
 
-Toda a arte foi desenvolvida pelo grupo sendo que nenhum asset foi obtido atráves de terceiros.
+O jogo contém uma campanha com 10 niveis de dificuldade crescente. 
+Os ultimos 5 niveis da campanha são editaveis e podem ser utilizados para criar uma mini campanha personalizada!
 
-O projeto recebeu uma nota de **19/20**, sendo que a maioria dos objetivos estipulados pelos professores foram cumpridos.
+O projeto recebeu uma nota de **19/20**, com todos os objetivos, de programação, devidamente cumpridos.
+A criação de um editor de mapas, campanha e até o visual moderno foram extras adicionados por puro gosto ao projeto.
 
 # Lore
 O BoxBot é um pequeno robô criado para organizar caixas em armazéns. 
@@ -53,7 +55,7 @@ BoxBot é um jogo que possui funcionalidades novas que não estão disponíveis 
 - Editor de níveis completo: 
     - Hotkeys para facilitar a criação dos mapas
     - Sistema de armazenamento de niveis com pre-visualização.
-- Possibilidade de partilhar níveis através de ficheiros de texto
+- Possibilidade de partilhar níveis através de ficheiros de texto.
 
 # Compatibilidade e instalação
 O jogo foi desenvolvido para Linux.
