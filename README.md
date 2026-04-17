@@ -47,6 +47,7 @@ O gameplay do jogo é idêntico ao do block dude original:
 - Seta cima: Pegar/Subir
 - Seta esquerda: Andar esquerda
 - Seta direita: Andar direita
+- Pausa: Escape (ESQ)
 
 # Funcionalidades
 BoxBot é um jogo que possui funcionalidades novas que não estão disponíveis no jogo base:
